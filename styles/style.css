@@ -286,6 +286,7 @@ footer {
   margin-top: 100px;
   height: 40px;
   vertical-align: bottom;
+  margin-bottom: 20px;
 }
 
 .footer-bottom {
@@ -308,6 +309,10 @@ footer {
     flex-wrap: wrap;
     gap: 10px;
     padding-top: 10px;
+  }
+  
+  .footer-col {
+    text-align: center;
   }
 
   .col-sm-12 {
