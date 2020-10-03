@@ -303,7 +303,7 @@ footer {
 /*----------------------------- Media Query -----------------------------*/
 /* Small devices (landscape phones, 576px and up) */
 /* @media (min-width: 576px) { */
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   header .col-sm-12 {
     width: calc(100% / 12 * 12);
     flex-wrap: wrap;
