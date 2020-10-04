@@ -310,13 +310,13 @@ footer {
     gap: 10px;
     padding-top: 10px;
   }
-  
-  .footer-col {
-    text-align: center;
-  }
 
   .col-sm-12 {
     width: calc(100% / 12 * 12);
+  }
+
+  .footer-col {
+    text-align: center;
   }
 
   .col-sm-6 {
