@@ -301,6 +301,13 @@ footer {
 }
 
 /*----------------------------- Media Query -----------------------------*/
+/* Extra small devices (phones, 600px and down) */
+@media (max-width: 600px) {
+  header .col-xs-12 {
+    display: none;
+  }
+
+
 /* Small devices (landscape phones, 576px and up) */
 /* @media (min-width: 576px) { */
 @media (max-width: 767px) {
