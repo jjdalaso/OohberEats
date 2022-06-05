@@ -3,4 +3,4 @@
 \
 I continued the bottom sections myself (circle icons and footer) and tried making it a bit responsive (not yet perfect) as the original homepage is not responsive.\
 \
-__Live Link:__ [https://oohbereats.netlify.app/](https://jjdalaso.github.io/OohberEats)
+__Live Link:__ https://jjdalaso.github.io/OohberEats
